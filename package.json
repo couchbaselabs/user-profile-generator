@@ -1,0 +1,10 @@
+{
+  "name": "user-profile-generator",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~4.2.0",
+    "couchbase":"~2.0.2",
+    "faker":"2.1.1"
+  }
+}
